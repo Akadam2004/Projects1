@@ -1,0 +1,3 @@
+cd C:\Users\akada\cns_pbl
+.\a.out
+make -f lab3.mk
